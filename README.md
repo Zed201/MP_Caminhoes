@@ -1,3 +1,4 @@
 # Mp-caminhões
 
-Estudo ao fazer uma mp antiga de programação
+Resolução da MP de 2022 como estudo.
+
