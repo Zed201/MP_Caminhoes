@@ -1,0 +1,1 @@
+printf("\nRemoveu um caminhao da sele de codigo %d\n", codigo_filial);
